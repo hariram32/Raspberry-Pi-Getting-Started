@@ -1,6 +1,6 @@
-# Raspberry-Pi-Getting-Started
+# Raspberry-Pi-Getting-Started ![Raspberry Pi](img/raspberry-pi_100.png)
 
-![Raspberry Pi](img/raspberry-pi_100.png)
+
 
 Build your own portable Raspberry Pi server!
 
@@ -12,17 +12,19 @@ Build your own portable Raspberry Pi server!
 
 
 -----------------------------------------
-##   Shopping Cart   ##
+
+## Shopping Cart ![Raspberry Pi](img/shopping_50.png)
 - ($79.99) [CanaKit Raspberry Pi 3 B+ Starter Kit](https://www.amazon.com/gp/product/B07BCC8PK7/)
 - ($11.99) [SD Card Reader](https://www.amazon.com/Vogek-Card-Reader-USB-Micro/dp/B01IE70PQY/)
 - ($10.00) [USB to TTL (UART) Serial Adapter](https://www.amazon.com/gp/product/B00DJUHGHI/)
 - ($36.50 + $10.99) _[Optional]_ [NavoLabs Raspberry Pi 3B+ POE Hat](https://www.amazon.com/gp/product/B07CLCFLH8/) and a [Raspberry Pi Hat-Compatible Enclosure](https://www.amazon.com/gp/product/B01GOSTL7Y/)
 
-#### **TOTAL W/POE-OPTIONS: $149.47**
+#### Total w/POE-Options: **$149.47**
 
 
 -----------------------------------------
-##   Install the OS   ##
+
+## Install the OS ![Raspberry Pi](img/install_50.png)
 
 ### NOOBS
 - To be filled in by Jay
