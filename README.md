@@ -1,14 +1,7 @@
 # Raspberry-Pi-Getting-Started ![Raspberry Pi](img/raspberry-pi_100.png)
 
-
-
 Build your own portable Raspberry Pi server!
 
-
-
------------------------------------------
-##   Table of Contents   ##
-1. [Shopping Cart](#shopping-cart)
 
 
 -----------------------------------------
