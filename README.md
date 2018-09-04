@@ -19,9 +19,14 @@ Build your own portable Raspberry Pi server!
 
 ## Install the OS ![Raspberry Pi](img/install_50.png)
 
-### NOOBS
-- To be filled in by Jay
-
+### NOOBS Install (Super Easy)
+1.  Download the NOOBS Installer ZIP file https://www.raspberrypi.org/downloads/noobs/ NOOBS is basically an installer package that has a wizard to install the Rasbian OS.
+2. Unzip the contents of NOOBS_v2_8_2.zip (current version at the time of this writing) to your PC hard disk.
+3. Download and install the free SD Memory Card Formatter https://www.sdcard.org/downloads/formatter_4/ (Windows and Mac versions available).
+4. Insert your SD Card into your SD card reader on your PC, and launch the SD Memory Card Formatter utility, format SD card as FAT32.
+5. Once formatted, copy the ENTIRE extracted file/folder structure from the NOOBS ZIP file to the root of your newly formatted SD card.
+6. Once written, remove SD card from your PC and insert into your Raspberry Pi that has a connected display, keyboard and mouse attached.
+7. Power on Raspberry Pi, installer/wizard will launch.  Answer questions to install Locale, timezone, etc.  Once completed, it will re-write SD card file system and require a reboot.  After reboot, it will place you into the Raspbian OS GUI.  Done!
 
 ### Standard Install
 1. Download and install [Etcher](https://etcher.io/). Etcher is a Flash Drive/SD Card flashing utility you can use to write the Raspberry Pi OS (Raspbian) to the SD card.
