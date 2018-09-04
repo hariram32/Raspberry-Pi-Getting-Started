@@ -14,10 +14,10 @@ Build your own portable Raspberry Pi server!
 -----------------------------------------
 
 ## Shopping Cart ![Raspberry Pi](img/shopping_50.png)
-- ($79.99) [CanaKit Raspberry Pi 3 B+ Starter Kit](https://www.amazon.com/gp/product/B07BCC8PK7/)
-- ($11.99) [SD Card Reader](https://www.amazon.com/Vogek-Card-Reader-USB-Micro/dp/B01IE70PQY/)
-- ($10.00) [USB to TTL (UART) Serial Adapter](https://www.amazon.com/gp/product/B00DJUHGHI/)
-- ($36.50 + $10.99) _[Optional]_ [NavoLabs Raspberry Pi 3B+ POE Hat](https://www.amazon.com/gp/product/B07CLCFLH8/) and a [Raspberry Pi Hat-Compatible Enclosure](https://www.amazon.com/gp/product/B01GOSTL7Y/)
+- [CanaKit Raspberry Pi 3 B+ Starter Kit](https://www.amazon.com/gp/product/B07BCC8PK7/) (**$79.99**)
+- [SD Card Reader](https://www.amazon.com/Vogek-Card-Reader-USB-Micro/dp/B01IE70PQY/) (**$11.99**)
+- [USB to TTL (UART) Serial Adapter](https://www.amazon.com/gp/product/B00DJUHGHI/) (**$10.00**)
+- _[Optional]_ [NavoLabs Raspberry Pi 3B+ POE Hat](https://www.amazon.com/gp/product/B07CLCFLH8/) and a [Raspberry Pi Hat-Compatible Enclosure](https://www.amazon.com/gp/product/B01GOSTL7Y/) (**$36.50 + $10.99**)
 
 #### Total w/POE-Options: **$149.47**
 
@@ -48,4 +48,4 @@ Build your own portable Raspberry Pi server!
 8. Change your password using the command `sudo passwd pi`
 9. If neccesary, perform some [Post-Install Setup](https://github.com/PackeTsar/scriptfury/blob/master/Raspbian_Post_Install.md) steps
 
-Congrats, you now have a portable Raspberry Pi server!
+### Congrats, you now have a portable Raspberry Pi server!
